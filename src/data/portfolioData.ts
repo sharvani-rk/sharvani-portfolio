@@ -15,7 +15,7 @@ export const PERSONAL_INFO = {
   location: "Hyderabad, India",
   email: "6sharvani6@gmail.com",
   phone: "+91 9052346555",
-  githubUrl: "https://github.com/your-username", // Placeholder - ready to replace
+  githubUrl: "https://github.com/sharvani-rk",
   linkedinUrl: "https://linkedin.com/in/your-profile", // Placeholder - ready to replace
   resumePath: "/resume.pdf",
   heroHeadline: "Building intelligent things with AI & Machine Learning.",
@@ -107,6 +107,7 @@ export const PROJECTS: Project[] = [
       "My Notes & Study Page: Seamless 'Add to Notes' action with a dedicated browser study workspace (notes.html)."
     ],
     isSpotlight: true,
+    githubUrl: "https://github.com/sharvani-rk/youmentor-ai",
     screenshots: [
       {
         src: "/images/youmentor/youmentor-explain-takeaway.png",
